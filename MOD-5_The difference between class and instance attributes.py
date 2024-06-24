@@ -21,3 +21,7 @@ for i in range(1, 41):
 
     print(f"Объект {building.total} класса Building создан.")  # Вывод информации о созданном объекте
 
+
+
+
+
