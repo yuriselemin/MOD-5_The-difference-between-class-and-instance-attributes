@@ -19,7 +19,6 @@ class Building:  # Определение класса Building
 # Цикл for, который создает 40 экземпляров класса Building
 for i in range(1, 41):
     building = Building()  # Создание нового экземпляра класса Building
-
     print(f"Объект {building.total} класса Building создан.")  # Вывод информации о созданном объекте
 
 
